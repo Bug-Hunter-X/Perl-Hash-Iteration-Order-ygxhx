@@ -1,0 +1,1 @@
+This example demonstrates a common issue in Perl where the order of elements in a hash is not preserved during iteration.  The output of the foreach loop might vary between Perl versions or executions. The solution shows a method to maintain order.
